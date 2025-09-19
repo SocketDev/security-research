@@ -11,7 +11,7 @@ immediately, with details shared in public with the defensive community
 after 90 days, or sooner if the vendor releases a fix.
 
 You can read up on our full policy at:
-[https://www.google.com/about/appsecurity/](https://socket.dev/security/outbound_vulnerability_disclosure).
+[https://socket.dev/security/outbound_vulnerability_disclosure](https://socket.dev/security/outbound_vulnerability_disclosure).
 
 ## Advisories
 
