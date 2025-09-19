@@ -5,7 +5,7 @@ proof-of-concepts related to research conducted at Socket which impact
 non-Socket owned code.
 
 We believe that vulnerability disclosure is a two-way street. Vendors,
-as well as researchers, must act responsibly. This is why Google adheres
+as well as researchers, must act responsibly. This is why Socket adheres
 to a 90-day disclosure deadline. We notify vendors of vulnerabilities
 immediately, with details shared in public with the defensive community
 after 90 days, or sooner if the vendor releases a fix.
